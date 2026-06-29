@@ -34,3 +34,9 @@ Android-приложение для просмотра списка тренир
  Список | `ListAdapter` + `DiffUtil` для оптимизации 
  UI | ViewBinding + Material Design 
  Lifecycle | Корректная обработка ExoPlayer 
+
+ ## 📸 Скриншоты
+
+| Список тренировок | Видеоплеер | Полноэкранный режим |
+|-------------------|------------|---------------------|
+| <img src="screenshots/Screenshot_20260629_213208.png" width="250"/> | <img src="screenshots/Screenshot_20260629_213219.png" width="250"/> | <img src="screenshots/Screenshot_20260629_213225.png" width="250"/> |
